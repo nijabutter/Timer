@@ -1,0 +1,11 @@
+C:\Users\brown\source\repos\timer\timer\bin\Debug\timer.exe.config
+C:\Users\brown\source\repos\timer\timer\bin\Debug\timer.exe
+C:\Users\brown\source\repos\timer\timer\bin\Debug\timer.pdb
+C:\Users\brown\source\repos\timer\timer\obj\Debug\timer.csprojAssemblyReference.cache
+C:\Users\brown\source\repos\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\brown\source\repos\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\brown\source\repos\timer\timer\obj\Debug\timer.Resource1.resources
+C:\Users\brown\source\repos\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\brown\source\repos\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\brown\source\repos\timer\timer\obj\Debug\timer.exe
+C:\Users\brown\source\repos\timer\timer\obj\Debug\timer.pdb
